@@ -1,0 +1,15 @@
+h1{color: pink;
+	  }
+	body {color: rgb(30, 30, 30);
+		background-color: rgb(245, 245, 245);
+		margin: 30px;
+			padding
+		}
+
+
+	.banner{
+		     text-align: center;
+		    	     /* Write some CSS below */
+	text-align: center;
+	background-image: url(images/photorecette.jpeg);
+}
